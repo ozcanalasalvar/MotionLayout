@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ozcanalasalvar.motionapp.view.DrawerContent
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:layoutDescription="@xml/scene_content">
+
+    <include layout="@layout/content_scrolling" />
+
+</com.ozcanalasalvar.motionapp.view.DrawerContent>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginStart="20dp"
+    android:layout_marginEnd="20dp"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:background="@drawable/circular_bg"
+        android:backgroundTint="@color/colorPrimary"
+        android:padding="10dp"
+        android:onClick="onClick"
+        android:text="Box Movement"
+        android:textAlignment="center"
+        android:textColor="@color/colorWhite"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/textProfile1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:background="@drawable/circular_bg"
+        android:backgroundTint="@color/colorPrimary"
+        android:padding="10dp"
+        android:text="Profile 1"
+        android:textAlignment="center"
+        android:onClick="onClick"
+        android:textColor="@color/colorWhite"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/textProfile2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:background="@drawable/circular_bg"
+        android:backgroundTint="@color/colorPrimary"
+        android:padding="10dp"
+        android:text="Profile 2"
+        android:textAlignment="center"
+        android:onClick="onClick"
+        android:textColor="@color/colorWhite"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/textCollapseToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:background="@drawable/circular_bg"
+        android:backgroundTint="@color/colorPrimary"
+        android:padding="10dp"
+        android:text="Collapsing Toolbar and Drawer"
+        android:textAlignment="center"
+        android:textColor="@color/colorWhite"
+        android:onClick="onClick"
+        android:textSize="17sp" />
+
+
+</LinearLayout>
