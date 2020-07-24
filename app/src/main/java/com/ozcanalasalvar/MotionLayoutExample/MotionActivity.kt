@@ -1,4 +1,4 @@
-package com.ozcanalasalvar.motionapp
+package com.ozcanalasalvar.MotionLayoutExample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

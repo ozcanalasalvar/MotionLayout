@@ -1,4 +1,4 @@
-package com.ozcanalasalvar.motionapp
+package com.ozcanalasalvar.MotionLayoutExample
 
 import org.junit.Test
 

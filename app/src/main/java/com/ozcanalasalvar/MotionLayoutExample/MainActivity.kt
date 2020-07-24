@@ -1,11 +1,9 @@
-package com.ozcanalasalvar.motionapp
+package com.ozcanalasalvar.MotionLayoutExample
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import kotlinx.android.synthetic.main.profile_layout.*
-import kotlinx.android.synthetic.main.profile_layout_v2.*
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -1,4 +1,4 @@
-package com.ozcanalasalvar.motionapp
+package com.ozcanalasalvar.MotionLayoutExample
 
 import android.content.Context
 import android.view.LayoutInflater

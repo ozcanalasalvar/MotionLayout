@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.ozcanalasalvar.motionapp.view.CollapsibleToolbar xmlns:android="http://schemas.android.com/apk/res/android"
+<com.ozcanalasalvar.MotionLayoutExample.view.CollapsibleToolbar xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/motionLayout"
     app:layoutDescription="@xml/scene_header"
@@ -43,4 +43,4 @@
         android:textSize="24sp"
         app:fontFamily="cursive" />
 
-</com.ozcanalasalvar.motionapp.view.CollapsibleToolbar>
+</com.ozcanalasalvar.MotionLayoutExample.view.CollapsibleToolbar>

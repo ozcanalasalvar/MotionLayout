@@ -1,4 +1,4 @@
-package com.ozcanalasalvar.motionapp.view
+package com.ozcanalasalvar.MotionLayoutExample.view
 
 import android.content.Context
 import android.util.AttributeSet
